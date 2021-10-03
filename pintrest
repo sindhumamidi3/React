@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T20:28:21.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Sw89a5WmQau9MqfaU5OF" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T03:11:47.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YL0ZpaXuU-ZfSTK7yIy4" version="15.4.1" type="github">
   <diagram id="2QKYwvB0oGN9hAgMek7d" name="Page-1">
     <mxGraphModel dx="946" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,8 +122,11 @@
         <mxCell id="D2n7fqDXqBxj9Ztb2Ugx-43" value="Add Comment" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="265" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D2n7fqDXqBxj9Ztb2Ugx-44" value="Component Architecture&lt;br&gt;&lt;ol&gt;&lt;li&gt;Pin Grid&lt;/li&gt;&lt;li&gt;Pin Card&lt;/li&gt;&lt;li&gt;Utility Bar&lt;/li&gt;&lt;li&gt;More flyout&lt;/li&gt;&lt;li&gt;DetailedPinComponent&lt;/li&gt;&lt;li&gt;Comments&lt;/li&gt;&lt;li&gt;AddComment&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="180" height="250" as="geometry" />
+        <mxCell id="D2n7fqDXqBxj9Ztb2Ugx-44" value="Component Architecture&lt;br&gt;&lt;ol&gt;&lt;li&gt;Pin Grid&lt;/li&gt;&lt;li&gt;Pin Card&lt;/li&gt;&lt;li&gt;Utility Bar (origin,&lt;br&gt;share flyout, more)&lt;/li&gt;&lt;li&gt;More flyout&lt;/li&gt;&lt;li&gt;DetailedPinComponent&lt;/li&gt;&lt;li&gt;Comments&lt;/li&gt;&lt;li&gt;AddComment&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="D2n7fqDXqBxj9Ztb2Ugx-45" value="&lt;ol&gt;&lt;li&gt;getPinsFeed(api_key, cursor, userId)&lt;/li&gt;&lt;li&gt;getPinComments(api_key, postId, limit)&lt;/li&gt;&lt;li&gt;postComment(api_key, postId, userId)&lt;/li&gt;&lt;li&gt;savePin(api_key, pinId, userId)&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="640" y="505" width="200" height="415" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
