@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T03:27:26.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.4.1" etag="2tn2WjzGOFPOR-uSAtw_" type="github"><diagram id="GG4mcfGZ0tTja5SrnPd3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-03T15:22:34.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="FZL7LK8wAobd0nUjcnVK" version="15.4.1" type="github">
+  <diagram id="GG4mcfGZ0tTja5SrnPd3" name="Page-1">
+    <mxGraphModel dx="652" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jB4k5azADK1NBhVm5HVu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="440" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-2" value="genre1 genre2 mylist&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; searchbar notfi myprofile" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-3" value="Hero Image movie with promo&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-4" value="Play" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-5" value="More info" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-6" value="movie list 1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="289" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-7" value="movie list 2" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-8" value="movie list 3" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-9" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-10" value="when clicked on more info button of a card a modal is opened" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-11" value="movie promo&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;tags&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;cast info&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-12" value="More like this" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-13" value="More information about the movie - director, rating, etc" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="900" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-14" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="510" y="670" width="290" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-15" value="when hovered over a movie card" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="600" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-16" value="Promo video" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="690" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-17" value="Like, dislike, play, addto list&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;more info" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="825" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-18" value="tags" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="900" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jB4k5azADK1NBhVm5HVu-19" value="&lt;ol&gt;&lt;li&gt;getMoviesList(apiKey, userId)&lt;/li&gt;&lt;li&gt;searchMovie(apiKey, queryString, pageSize)&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="830" y="750" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
